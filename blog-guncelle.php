@@ -1,0 +1,1 @@
+<!-- UPDATE `blog_postlari` SET `baslik` = 'What is Lorem Ipsum??' WHERE `blog_postlari`.`id` = 1; -->
